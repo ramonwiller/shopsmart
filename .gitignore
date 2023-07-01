@@ -1,0 +1,11 @@
+## Django ##
+.env
+db.sqlite3
+
+## Python ##
+__pycache__/
+__pypackages__/
+
+## Python Version Management ##
+.python-version
+venv/
